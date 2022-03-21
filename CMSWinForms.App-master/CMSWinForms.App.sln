@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMSWinForms.App", "CMSWinForms.App\CMSWinForms.App.csproj", "{F81E1356-25BA-4BA4-999C-590441BD9531}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F81E1356-25BA-4BA4-999C-590441BD9531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F81E1356-25BA-4BA4-999C-590441BD9531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F81E1356-25BA-4BA4-999C-590441BD9531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F81E1356-25BA-4BA4-999C-590441BD9531}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A6D052D-AC4F-463A-97CD-61D24ADCD591}
+	EndGlobalSection
+EndGlobal
